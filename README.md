@@ -41,7 +41,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (March 2021 to June 2021)
+### Makers Academy (March 2021 to June 2021)
 - Top rated UK bootcamp over 16 weeks with a 10% acceptance rate
 - Focus on learning to learn effectively as well as working cooperatively with others
   through daily pair programming sessions.
@@ -52,12 +52,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Durham University (October 2015 to June 2018)
+### Durham University (October 2015 to June 2018)
 
 - Chemistry
 - First class honours
 
-#### Whitgift School
+### Whitgift School
 _A Levels_
 - Mathematics - A*
 - Further Mathermatics - A*
