@@ -42,9 +42,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 #### Makers Academy (March 2021 to June 2021)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+- Top rated UK bootcamp over 16 weeks with a 10% acceptance rate
+- Focus on learning to learn effectively as well as working cooperatively with others
+  through daily pair programming sessions.
+
+**Skills**  
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
@@ -56,7 +58,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - First class honours
 
 #### Whitgift School
-##A Levels
+_A Levels_
 - Mathematics - A*
 - Further Mathermatics - A*
 - Chemistry - A*
@@ -64,4 +66,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Skiing, Hockey and anything I can compete in!
