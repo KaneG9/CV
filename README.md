@@ -20,11 +20,6 @@ with the opportunity to take on a leadership role which required effective commu
 as well as take on the responsiblity to ensure all participants were safe and satisfied.
 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
@@ -46,7 +41,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2021 to June 2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -55,15 +50,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Durham University (October 2015 to June 2018)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Chemistry
+- First class honours
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+#### Whitgift School
+##A Levels
+- Mathematics - A*
+- Further Mathermatics - A*
+- Chemistry - A*
+- Physics - A
 
 ## Hobbies
 
