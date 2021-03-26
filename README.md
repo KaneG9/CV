@@ -12,7 +12,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 ## Experience
 
 **Whistler Blackcomb Snow School, BC Canada** (Nov 2018 to May 2019)  
-_Ski instructor_
+_Ski instructor_  
 Daily responsibilities involved planning and teaching lessons to both children and adults.
 Working as an instructor has help me develop the ability to tailoring my approach to teaching based upon the client's 
 needs and ability as well as adapting my plans throughout the lesson based upon results. Additionally is has provided me 
