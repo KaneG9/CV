@@ -11,8 +11,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Whistler Blackcomb Snow School, BC Canada** (Nov 2018 to May 2019)  
+Ski instructor
 
 - Any experience relevent to software development
 
