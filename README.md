@@ -15,10 +15,15 @@ in chemistry. Since then I have become a CSIA level 2 qualified ski instructor a
 
 ## Experience
 
+**Sanddown ski centre** (Jan 2020 - June 2020)
+_Ski instructor_
+
+- Daily responsibilities involved teaching lessons ranging from large school groups to one to one private lessons.
+
 **Whistler Blackcomb Snow School, BC Canada** (Nov 2018 to May 2019)  
 _Ski instructor_  
 - Qualified CSIA level 2 ski instructor
-- Daily responsibilities involved planning and teaching lessons to both children and adults.
+- Daily responsibilities involved planning and teaching group lessons to both children and adults.
 - Working as an instructor has help me develop the ability to tailoring my approach to teaching based upon the client's 
 needs and ability as well as adapting my plans throughout the lesson based upon results. Additionally is has provided me 
 with the opportunity to take on a leadership role which required effective communication with a variety of clients 
