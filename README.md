@@ -15,7 +15,7 @@ in chemistry. Since then I have become a CSIA level 2 qualified ski instructor a
 
 ## Experience
 
-**Sanddown ski centre** (Jan 2020 - June 2020)
+**Sanddown ski centre** (Jan 2020 - June 2020)  
 _Ski instructor_
 
 - Daily responsibilities involved teaching lessons ranging from large school groups to one to one private lessons.
