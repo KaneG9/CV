@@ -1,7 +1,11 @@
 ## Kane Gin
 
-Junior Full Stack Web Developer  
-Currently working my way through the Makers Academy developer bootcamp 
+I am an enthusiastic Junior Full Stack Web Developer excited about learning new skills. I am looking for a role where I can build upon my 
+existing programming knowledge as well as gain exposure in business and finance.
+
+I am currently working my way through the Makers Academy developer bootcamp having graduated from Durham University with first class honours
+in chemistry. Since then I have become a CSIA level 2 qualified ski instructor as well as beginning to teaching myself how to code in python.
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
