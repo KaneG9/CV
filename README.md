@@ -7,13 +7,12 @@ I have recently graduated from Makers Academy, a coding bootcamp focussing on le
 Prior to the bootcamp I graduated from Durham university with First-Class Honours in Chemistry highlighting my strong problem solving ability and analytical skill set. Additionally I worked as a ski instructor for two years in both Canada and England achieving my CSIA level 2 qualification.
 
 ## Projects
-
-|     Project            |     Description                                                                                                |     Timeframe    |     Technologies                                                   |
-|------------------------|----------------------------------------------------------------------------------------------------------------|------------------|--------------------------------------------------------------------|
-|     [Noteworthy](https://github.com/KaneG9/Noteworthy)        |     A pure JavaScript Single page note taking application. Tested using a self-developed testing framework.    |     1 week       |     JavaScipt, HTML, CSS                                           |
-|     [Fridge Savant](https://github.com/KaneG9/fridge-savant-client)      |     A full stack web application built using the MERN stack to find recipes based on a list of ingredients.    |     2 weeks      |     React, JavaScript, Express, MongoDB, Node, CSS, Jest, Postman  |
-|     [Bank Tech Test](https://github.com/KaneG9/bank_tech_test/blob/master/Gemfile)     |     A sample tech test written in Ruby to demonstrate high code quality, TDD and OOP/D                         |     2 days       |     Ruby, RSpec                                                    |
-  
+|     Project            |     Description                                                                                                                                      |     Timeframe    |     Technologies                                                   |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|--------------------------------------------------------------------|
+|     Noteworthy         |     A pure JavaScript Single page note taking application. Tested using a self-developed testing framework.                                          |     1 week       |     JavaScipt, HTML, CSS                                           |
+|     Fridge Savant      |     A full stack web application built using the MERN stack to find recipes based on a list of ingredients.                                          |     2 weeks      |     React, JavaScript, Express, MongoDB, Node, CSS, Jest, Postman  |
+|     Bank Tech Test     |     A sample tech test written in Ruby to demonstrate high code quality, TDD and OOP/D                                                               |     2 days       |     Ruby, RSpec                                                    |
+| Python Notes App       | A notes app built using the Django framework. The aim of this project was to gain an understanding of Django to begin building projects with Python. | 2 weeks          | Python, JavaScript, Django, HTML                                   |
 
 ## Experience
 
@@ -44,28 +43,29 @@ Not only do I believe I am a strong problem solver but it is something I activel
 Throughout my time in higher education I have had a focus on analytical areas such as during my time studying chemistry. I would have weekly lab sessions which once completed would require analysis on my results to understand what had happened during the experiments both theoretically and in reality then draw conclusions from those ideas.
 
 #### Excellent communicator
-While teaching skiing the most important skill was being able to convey my ideas in an understandable way based upon the client. I learnt that people learn in different ways and I have to adapt the way I communicate based upon who I am talking to. During this time I was exposed to a wide variety of clients with varying backgrounds and ages which has helped me develop these skills.
+While teaching skiing the most important skill was being able to clearly convey my ideas tailored to the client. I learnt that people learn in different ways and I have to adapt the way I communicate based upon who I am talking to. During this time I was exposed to a diverse range of clients with varying backgrounds and ages which has helped me develop these skills.
 
 ## Education
 
 ### Makers Academy (March 2021 to June 2021)
 
 * Top rated UK bootcamp over 16 weeks with a 10% acceptance rate
-* Focus on learning to learn effectively as well as working cooperatively with others through daily pair programming sessions.
+* Implementing practices such as self-led learning, growth mindset, team feedback, pair programming, TDD and agile working
 
 **Skills**
 * OOP, TDD, MVC
 * Agile/XP
 * Ruby, JavaScript
-* Rails, MERN stack
+* Rails, Sinatra, MERN stack
 * RSpec, Jasmine
 * Git
 * HTML, CSS
 
-### Durham University (October 2015 to June 2018)
+### Durham University, Chemistry, First class honours (October 2015 to June 2018)
 
-* Chemistry
-* First class honours
+* Highly analytical with weekly lab projects which required analysis based on our results.
+* Good time management as two days a week were spent in labs meaning I had to effectively manage my remaining time to keep up with theory as well as extra-curricular activities. 
+
 
 ### Whitgift School (September 2008 to June 2015)
 
