@@ -9,10 +9,10 @@ Prior to the bootcamp I graduated from Durham university with First-Class Honour
 ## Projects
 |     Project            |     Description                                                                                                                                      |     Timeframe    |     Technologies                                                   |
 |------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|--------------------------------------------------------------------|
-|     Noteworthy         |     A pure JavaScript Single page note taking application. Tested using a self-developed testing framework.                                          |     1 week       |     JavaScipt, HTML, CSS                                           |
-|     Fridge Savant      |     A full stack web application built using the MERN stack to find recipes based on a list of ingredients.                                          |     2 weeks      |     React, JavaScript, Express, MongoDB, Node, CSS, Jest, Postman  |
-|     Bank Tech Test     |     A sample tech test written in Ruby to demonstrate high code quality, TDD and OOP/D                                                               |     2 days       |     Ruby, RSpec                                                    |
-| Python Notes App       | A notes app built using the Django framework. The aim of this project was to gain an understanding of Django to begin building projects with Python. | 2 weeks          | Python, JavaScript, Django, HTML                                   |
+|     [Noteworthy](https://github.com/KaneG9/Noteworthy)         |     A pure JavaScript Single page note taking application. Tested using a self-developed testing framework.                                          |     1 week       |     JavaScipt, HTML, CSS                                           |
+|     [Fridge Savant](https://github.com/KaneG9/fridge-savant-client)      |     A full stack web application built using the MERN stack to find recipes based on a list of ingredients.                                          |     2 weeks      |     React, JavaScript, Express, MongoDB, Node, CSS, Jest, Postman  |
+|     [Bank Tech Test](https://github.com/KaneG9/bank_tech_test)     |     A sample tech test written in Ruby to demonstrate high code quality, TDD and OOP/D                                                               |     2 days       |     Ruby, RSpec                                                    |
+| [Python Notes App](https://github.com/KaneG9/Django_notes_app)       | A notes app built using the Django framework. The aim of this project was to gain an understanding of Django to begin building projects with Python. | 2 weeks          | Python, JavaScript, Django, HTML                                   |
 
 ## Experience
 
